@@ -1,0 +1,36 @@
+
+Nombre: null
+DNI: 0
+Email: null
+Teléfono: 0
+
+Nombre: franco godinez
+DNI: 4123212
+Email: fs4@gmail.com
+Teléfono: 34141221
+
+Nombre: 
+DNI: 42555666
+Email: 
+Teléfono: 42555666
+
+Nombre: 
+DNI: 33412555
+Email: 
+Teléfono: 3416541175
+
+Nombre: franco chanel
+DNI: 31225343
+Email: ch@gmail.com
+Teléfono: 3416451156
+
+Nombre: eduardo sili
+DNI: 34111531
+Email: edusili@gmail.com
+Teléfono: 3416544232
+
+Nombre: catarina lopez
+DNI: 31445243
+Email: catul2@gmail.com
+Teléfono: 3416576641
+

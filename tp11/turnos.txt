@@ -1,0 +1,9 @@
+ 
+Usuario: pepenube2, Fecha: 2/3/2025, Médico: jorgito - urologo
+Usuario: francoSoldini1, Fecha: cocaCola, Médico: pedrito - gastroenterologo
+
+
+Usuario: null, Fecha: null, Médico: pedrito - gastroenterologo
+
+Usuario: null, Fecha: Sun Mar 02 00:00:00 ART 2025, Médico: pedrito - gastroenterologo
+Usuario: null, Fecha: Wed Apr 02 00:00:00 ART 2025, Médico: pedrito - gastroenterologo
